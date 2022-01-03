@@ -1,1 +1,1 @@
-https://pssofer.github.io/rsschool-cv/cv
+https://pssofer.github.io/rsschool-cv/
