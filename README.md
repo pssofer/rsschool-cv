@@ -1,1 +1,1 @@
-# rsschool-cv
+https://pssofer.github.io/rsschool-cv/
