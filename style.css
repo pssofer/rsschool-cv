@@ -150,4 +150,6 @@ html {
     background-size: contain;
     background-repeat: no-repeat;
     margin: auto 0;
+    font-size: 0;
+    font-weight: 0;
   }
